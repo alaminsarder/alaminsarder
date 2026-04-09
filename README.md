@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Alamin Sarder</h1>
 <p align="center">
-  Full Stack Developer | Web Developer from Bangladesh
+  Full Stack Developer | Programmer | Web Developer from Bangladesh
 </p>
 
 <p align="center">
@@ -64,13 +64,22 @@
 ---
 
 ## 🔥 GitHub Activity
-> (This card is working on your side; keeping only this to avoid broken images.)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=alaminsarder&theme=github-dark-blue&hide_border=true)
 
 ---
 
 ## 🤝 Connect with Me
-- Email: **alamin.pub.24th@gmail.com**
-- Facebook: **https://www.facebook.com/youralamin/**
-- GitHub: **https://github.com/alaminsarder**
+
+<p align="left">
+  <a href="mailto:alamin.pub.24th@gmail.com">
+    <img src="https://img.shields.io/badge/Email-alamin.pub.24th%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <a href="https://www.facebook.com/youralamin/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-@youralamin-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+
+  <a href="https://github.com/alaminsarder" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-alaminsarder-111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
