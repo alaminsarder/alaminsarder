@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alamin Sarder</h1>
-<h3 align="center">Full Stack Developer | Web Developer from Bangladesh 🇧🇩</h3>
+<h1 align="center">Hi, I'm Alamin Sarder</h1>
+<h3 align="center">Full Stack Developer | Web Developer from Bangladesh</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alaminsarder&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -9,7 +9,6 @@
 ---
 
 ### 👨‍💻 About Me
-
 - 🔭 Currently working on **Web Development Projects**
 - 🌱 Learning **React, Node.js, Python, Django**
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js**
@@ -19,54 +18,26 @@
 ---
 
 ### 🛠️ Languages and Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,django,mysql,mongodb,git,github,vscode" alt="Skills" />
-</p>
+![Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,django,mysql,mongodb,git,github,vscode)
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alaminsarder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=alaminsarder&theme=tokyonight&hide_border=true" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alaminsarder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaminsarder&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=alaminsarder&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alaminsarder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800)
 
 ---
 
 ### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alaminsarder&theme=tokyonight&no-frame=true&margin-w=10&column=6" />
-</p>
+![Trophies](https://github-profile-trophy.vercel.app/?username=alaminsarder&theme=tokyonight&no-frame=true&margin-w=10&column=6)
 
 ---
 
 ### 🔗 Connect with Me
-
-<p align="center">
-  <a href="mailto:alamin.pub.24th@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://facebook.com/youralamin" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://github.com/alaminsarder" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <b>⭐ Show some love by starring my repositories!</b>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alamin.pub.24th@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/youralamin/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alaminsarder)
