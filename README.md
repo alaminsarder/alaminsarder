@@ -27,7 +27,7 @@
 - 🌱 Learning **React, Node.js, Python, Django**
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js**
 - 📫 Email: **alamin.pub.24th@gmail.com**
-- 🌍 Location: **Bangladesh**
+- 🌍 Location: **Bogura,Bangladesh**
 
 ---
 
