@@ -34,14 +34,12 @@
 ## 🛠️ Languages and Tools
 
 ### Preferred stack
-> HTML • CSS • JavaScript • React • Node.js • Python • Django • Git
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,django,git,github,vscode&perline=10" alt="Skills" />
 </p>
 
 <details>
-  <summary>🔧 If icons don’t load (fallback text)</summary>
 
   - HTML5
   - CSS3
@@ -59,7 +57,7 @@
 ## 📌 Featured Links
 - 🔗 GitHub: https://github.com/alaminsarder
 - 📂 Repositories: https://github.com/alaminsarder?tab=repositories
-- 🧩 Projects (pin your best repos on profile): https://github.com/alaminsarder
+- 🧩 Projects : https://github.com/alaminsarder
 
 ---
 
