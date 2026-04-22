@@ -15,25 +15,25 @@ Focused on building clean and scalable web applications.
 ---
 
 ## 🛠️ Skills
-HTML • CSS • JavaScript • React • Node.js • Django • MongoDB • MySQL • Git
+HTML • CSS • JavaScript • React • Node.js • Django • MongoDB • MySQL • Git • GitHub
 
 ---
 
 ## 📌 Current Focus
-- Full stack web development  
-- Backend API development  
-- Clean code & real projects  
+- Full Stack Web Development  
+- Backend API Development  
+- Clean & scalable code  
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect With Me
 - GitHub: https://github.com/alaminsarder  
 - Facebook: https://facebook.com/youralamin  
 - Email: alamin.pub.24th@gmail.com  
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 GitHub Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/alaminsarder/alaminsarder/output/github-contribution-grid-snake.svg" />
