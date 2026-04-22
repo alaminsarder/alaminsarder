@@ -3,43 +3,37 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+Django;Building+Real+World+Applications;Clean+Code+%7C+Problem+Solver;Always+Learning+New+Technologies+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+Django;Building+Real+World+Applications;Clean+Code+%7C+Problem+Solver;Always+Learning+%F0%9F%9A%80" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-
-I am a passionate **Full Stack Web Developer** from **Bogura, Bangladesh**.  
-I love building clean, scalable, and real-world web applications.
+Full Stack Web Developer from **Bogura, Bangladesh**  
+Focused on building clean and scalable web applications.
 
 ---
 
 ## 🛠️ Skills
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,django,mongodb,mysql,git,github,vscode" />
-</p>
+HTML • CSS • JavaScript • React • Node.js • Django • MongoDB • MySQL • Git
 
 ---
 
 ## 📌 Current Focus
-
-- Building real-world full stack applications  
-- Improving backend API design  
-- Writing clean and scalable code  
+- Full stack web development  
+- Backend API development  
+- Clean code & real projects  
 
 ---
 
-## 🌐 Connect With Me
-
+## 🌐 Connect
 - GitHub: https://github.com/alaminsarder  
 - Facebook: https://facebook.com/youralamin  
 - Email: alamin.pub.24th@gmail.com  
 
 ---
 
-## 🐍 GitHub Contribution Snake (REAL)
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/alaminsarder/alaminsarder/output/github-contribution-grid-snake.svg" />
