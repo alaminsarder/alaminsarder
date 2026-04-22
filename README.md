@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+Django;Building+Real+World+Applications;Clean+Code+%7C+Problem+Solver;Always+Learning+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+Django;Building+Real+World+Applications;Clean+Code+%7C+Problem+Solver;Always+Learning" />
 </p>
 
 ---
@@ -33,8 +33,7 @@ HTML • CSS • JavaScript • React • Node.js • Django • MongoDB • MyS
 
 ---
 
-## 🐍 GitHub Contribution Snake
-
+## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alaminsarder/alaminsarder/output/github-contribution-grid-snake.svg" />
+  <img src="https://streak-stats.demolab.com?user=alaminsarder&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
