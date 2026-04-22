@@ -10,14 +10,14 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate **Full Stack Web Developer** from **Bogura, Bangladesh**, focused on building clean, scalable, and real-world applications.  
-I enjoy turning ideas into functional and user-friendly digital products.
+I am a passionate **Full Stack Web Developer** from **Bogura, Bangladesh**.  
+I love building clean, scalable, and real-world web applications.
 
 ---
 
 ## 🛠️ Skills
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,django,mongodb,mysql,git,github,vscode" />
 </p>
 
@@ -26,28 +26,21 @@ I enjoy turning ideas into functional and user-friendly digital products.
 ## 📌 Current Focus
 
 - Building real-world full stack applications  
-- Improving backend API architecture  
-- Writing clean and maintainable code  
-- Learning modern web technologies  
+- Improving backend API design  
+- Writing clean and scalable code  
 
 ---
 
 ## 🌐 Connect With Me
 
-- 🔗 GitHub: https://github.com/alaminsarder  
-- 📘 Facebook: https://facebook.com/youralamin  
-- 📧 Email: alamin.pub.24th@gmail.com  
+- GitHub: https://github.com/alaminsarder  
+- Facebook: https://facebook.com/youralamin  
+- Email: alamin.pub.24th@gmail.com  
 
 ---
 
-## 🐍 GitHub Contribution Snake
+## 🐍 GitHub Contribution Snake (REAL)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/alaminsarder/alaminsarder/output/github-contribution-grid-snake.svg" />
 </p>
-
----
-
-## ⚙️ Important: Snake Setup (must do)
-
-### 📁 File location:
