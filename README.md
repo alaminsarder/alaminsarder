@@ -10,31 +10,15 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate **Full Stack Web Developer** from **Bogura, Bangladesh**, focused on building scalable, clean, and real-world web applications.  
-I enjoy solving problems and turning ideas into functional digital products.
+I am a passionate **Full Stack Web Developer** from **Bogura, Bangladesh**, focused on building clean, scalable, and real-world applications.  
+I enjoy turning ideas into functional and user-friendly digital products.
 
 ---
 
 ## 🛠️ Skills
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,django" />
-</p>
-
-### Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,django,mongodb,mysql,git,github,vscode" />
 </p>
 
 ---
@@ -42,27 +26,28 @@ I enjoy solving problems and turning ideas into functional digital products.
 ## 📌 Current Focus
 
 - Building real-world full stack applications  
-- Improving backend architecture & API design  
-- Writing clean, scalable, production-ready code  
+- Improving backend API architecture  
+- Writing clean and maintainable code  
+- Learning modern web technologies  
 
 ---
 
 ## 🌐 Connect With Me
 
-- GitHub: https://github.com/alaminsarder  
-- Facebook: https://facebook.com/youralamin  
-- Email: alamin.pub.24th@gmail.com  
+- 🔗 GitHub: https://github.com/alaminsarder  
+- 📘 Facebook: https://facebook.com/youralamin  
+- 📧 Email: alamin.pub.24th@gmail.com  
 
 ---
 
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/alaminsarder/alaminsarder/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-<p align="center">
-  ⚡ Focused on growth, consistency, and real-world impact ⚡
-</p>
+## ⚙️ Important: Snake Setup (must do)
+
+### 📁 File location:
