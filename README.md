@@ -1,9 +1,4 @@
-<!--
-Al Amin Sarder - Full Stack Web Developer from Bogura, Bangladesh.
-MERN Stack Developer | React | Node.js | Express | MongoDB | JavaScript
-Freelance Web Developer Bangladesh | Backend Developer | API Developer
--->
-
+<!-- Header Section -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0023,50:4b0082,100:8a2be2&height=220&section=header&text=Al%20Amin%20Sarder&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20MERN%20Developer%20|%20Bangladesh&descAlignY=58&descAlign=50"/>
 </p>
@@ -24,7 +19,7 @@ Freelance Web Developer Bangladesh | Backend Developer | API Developer
 
 Hi, I'm **Al Amin Sarder** — a passionate **Full Stack Web Developer** from **Bogura, Bangladesh** 🇧🇩. I specialize in building **modern, scalable, and production-ready web applications** using the **MERN Stack**.
 
-I love transforming ideas into real, working products — from crafting elegant APIs to designing polished user interfaces that people enjoy using.
+I love transforming ideas into real, working products — from crafting efficient APIs to designing polished user interfaces that people enjoy using.
 
 - 🔭 Currently building full-stack applications with **MongoDB, Express, React, Node.js**
 - 🚀 Focused on **performance, scalability, and clean architecture**
@@ -34,7 +29,7 @@ I love transforming ideas into real, working products — from crafting elegant 
 
 <br/>
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
 
 ### 💻 Languages
 <p>
@@ -88,9 +83,9 @@ I love transforming ideas into real, working products — from crafting elegant 
 
 | 🎯 Area | 📝 Details |
 |---------|-----------|
-| 🏗️ Building | Full Stack MERN Applications |
-| 🔌 Backend | RESTful API Design & Development |
-| 🎨 Frontend | Modern UI/UX with React & Tailwind |
+| 🏗️ Building | Scalable Full-Stack MERN Applications |
+| 🔌 Backend | RESTful API Design & Security |
+| 🎨 Frontend | Modern UI/UX with React & Tailwind CSS |
 | 🚀 Goal | Writing Clean, Scalable, Maintainable Code |
 | 📖 Learning | System Design & Cloud Deployment |
 
@@ -98,10 +93,10 @@ I love transforming ideas into real, working products — from crafting elegant 
 
 ## 🚀 What I Do Best
 
-- ✨ **Full Stack Development** — End-to-end web application development
+- ✨ **Full Stack Development** — End-to-end web application development using MERN
 - 🎨 **Responsive UI Design** — Pixel-perfect, mobile-first interfaces
 - 🔌 **API Development** — RESTful APIs with authentication & authorization
-- 🗄️ **Database Design** — Efficient schema design with MongoDB & MySQL
+- 🗄️ **Database Architecture** — Efficient schema design with MongoDB & MySQL
 - 🚀 **Deployment** — CI/CD, Vercel, Netlify, Docker
 - 🔧 **Problem Solving** — Debugging, optimization, and clean code practices
 
@@ -128,18 +123,6 @@ I love transforming ideas into real, working products — from crafting elegant 
   <a href="https://github.com/alaminsarder">
     <img src="https://github-profile-trophy.vercel.app/?username=alaminsarder&theme=tokyonight&no-frame=true&column=7" alt="Trophies" />
   </a>
-</p>
-
-<br/>
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/39d353/alaminsarder" alt="Al Amin Sarder's GitHub Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alaminsarder&theme=github-compact&hide_border=true&area=true&color=39d353&line=39d353&point=ffffff" alt="Activity Graph" />
 </p>
 
 <br/>
