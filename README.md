@@ -109,14 +109,6 @@ I love transforming ideas into real, working products — from crafting efficien
 
 <br/>
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/39d353/alaminsarder" alt="Al Amin Sarder's GitHub Contribution Graph" />
-</p>
-
-<br/>
-
 ## 🌐 Let's Connect
 
 <p align="center">
@@ -124,6 +116,10 @@ I love transforming ideas into real, working products — from crafting efficien
   <a href="https://facebook.com/youralamin"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="mailto:alamin.pub.24th@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/alaminsarder"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  💬 Feel free to reach out for <b>collaborations</b>, <b>freelance projects</b>, or just to <b>say hi</b>! 👋
 </p>
 
 <p align="center">
