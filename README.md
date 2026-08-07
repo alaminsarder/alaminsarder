@@ -29,35 +29,41 @@ I love transforming ideas into real, working products — from crafting efficien
 
 <br/>
 
-## 🛠️ Tech Stack & Skills
+## 💻 Tech Stack
 
-### 💻 Languages
+### 🚀 Programming Languages
 <p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 🎨 Frontend
+### 🎨 Frontend Development
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend & Build Tools
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
 </p>
 
-### 🗄️ Database
+### 🗄️ Database & Cloud Services
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -65,7 +71,7 @@ I love transforming ideas into real, working products — from crafting efficien
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
 </p>
 
-### 🧰 Tools & Platforms
+### 🧰 Tools & Hosting Platforms
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -73,8 +79,10 @@ I love transforming ideas into real, working products — from crafting efficien
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
 <br/>
@@ -91,37 +99,39 @@ I love transforming ideas into real, working products — from crafting efficien
 
 <br/>
 
-## 🚀 What I Do Best
-
-- ✨ **Full Stack Development** — End-to-end web application development using MERN
-- 🎨 **Responsive UI Design** — Pixel-perfect, mobile-first interfaces
-- 🔌 **API Development** — RESTful APIs with authentication & authorization
-- 🗄️ **Database Architecture** — Efficient schema design with MongoDB & MySQL
-- 🚀 **Deployment** — CI/CD, Vercel, Netlify, Docker
-- 🔧 **Problem Solving** — Debugging, optimization, and clean code practices
-
-<br/>
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/alaminsarder">
-    <img src="https://github-readme-stats.vercel.app/api?username=alaminsarder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" height="170"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=alaminsarder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
   </a>
   <a href="https://github.com/alaminsarder">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaminsarder&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" height="170"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alaminsarder&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/alaminsarder">
-    <img src="https://streak-stats.demolab.com?user=alaminsarder&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alaminsarder&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/alaminsarder">
     <img src="https://github-profile-trophy.vercel.app/?username=alaminsarder&theme=tokyonight&no-frame=true&column=7" alt="Trophies" />
+  </a>
+</p>
+
+<br/>
+
+## 🤝 Contributors
+
+Contributions, issues, and feature requests are welcome!  
+Feel free to check out my repositories and contribute.
+
+<p align="center">
+  <a href="https://github.com/alaminsarder">
+    <img src="https://contrib.rocks/image?repo=alaminsarder/alaminsarder" alt="Contributors" />
   </a>
 </p>
 
