@@ -109,6 +109,14 @@ I love transforming ideas into real, working products — from crafting efficien
 
 <br/>
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/39d353/alaminsarder" alt="Al Amin Sarder's GitHub Contribution Graph" />
+</p>
+
+<br/>
+
 ## 🌐 Let's Connect
 
 <p align="center">
