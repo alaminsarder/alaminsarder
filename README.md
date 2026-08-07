@@ -109,10 +109,10 @@ I love transforming ideas into real, working products — from crafting efficien
 
 <br/>
 
-## 📈 Contribution Graph
+## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/39d353/alaminsarder" alt="Al Amin Sarder's GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alaminsarder&theme=github-compact&hide_border=true&area=true&color=39d353&line=39d353&point=ffffff" alt="Activity Graph" />
 </p>
 
 <br/>
