@@ -110,29 +110,12 @@ I love transforming ideas into real, working products — from crafting efficien
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/alaminsarder">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alaminsarder&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/alaminsarder">
-    <img src="https://github-profile-trophy.vercel.app/?username=alaminsarder&theme=tokyonight&no-frame=true&column=7" alt="Trophies" />
-  </a>
-</p>
-
 <br/>
 
-## 🤝 Contributors
-
-Contributions, issues, and feature requests are welcome!  
-Feel free to check out my repositories and contribute.
+## 📈 Contribution Graph
 
 <p align="center">
-  <a href="https://github.com/alaminsarder">
-    <img src="https://contrib.rocks/image?repo=alaminsarder/alaminsarder" alt="Contributors" />
-  </a>
+  <img src="https://ghchart.rshah.org/39d353/alaminsarder" alt="Al Amin Sarder's GitHub Contribution Graph" />
 </p>
 
 <br/>
