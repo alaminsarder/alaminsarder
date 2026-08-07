@@ -9,7 +9,7 @@ Freelance Web Developer Bangladesh | Backend Developer | API Developer
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Building+Scalable+Web+Applications;Clean+Code+%2F+Problem+Solver;Turning+Ideas+Into+Real+Products" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Building+Scalable+Web+Applications;Clean+Code+%2F+Problem+Solver;Turning+Ideas+Into+Real+Products" />
 </p>
 
 <p align="center">
@@ -110,24 +110,36 @@ I love transforming ideas into real, working products — from crafting elegant 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alaminsarder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaminsarder&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <a href="https://github.com/alaminsarder">
+    <img src="https://github-readme-stats.vercel.app/api?username=alaminsarder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" height="170"/>
+  </a>
+  <a href="https://github.com/alaminsarder">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaminsarder&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" height="170"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=alaminsarder&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/alaminsarder">
+    <img src="https://streak-stats.demolab.com?user=alaminsarder&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alaminsarder&theme=tokyonight&no-frame=true&column=7" alt="Trophies" />
+  <a href="https://github.com/alaminsarder">
+    <img src="https://github-profile-trophy.vercel.app/?username=alaminsarder&theme=tokyonight&no-frame=true&column=7" alt="Trophies" />
+  </a>
 </p>
 
 <br/>
 
-## 🐍 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alaminsarder/alaminsarder/output/github-contribution-grid-snake.svg" />
+  <img src="https://ghchart.rshah.org/8a2be2/alaminsarder" alt="Al Amin Sarder's GitHub Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alaminsarder&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 <br/>
