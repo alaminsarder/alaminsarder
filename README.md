@@ -25,22 +25,18 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="55%" valign="middle">
 
 Hi, I'm **AL Amin Sarder** 👋, a **Mobile App Developer** from **Bogura, Bangladesh** 🇧🇩. I build **innovative Android & cross-platform solutions** along with **scalable full-stack web apps** using the **MERN Stack**.
 
 I enjoy turning ideas into real products, from designing clean UIs to building secure APIs and deploying apps that people actually use.
 
-- 📱 **Android Developer** building modern, user-friendly mobile apps
-- 🔀 Exploring **cross-platform development** (Flutter / React Native)
+- 📱 **Android Developer** building modern mobile apps
 - 🔭 Building full-stack apps with **MongoDB, Express, React, Node.js**
-- 🔌 Designing **RESTful APIs** with authentication & security
-- 🔥 Working with **Firebase** for auth, database & real-time features
-- 🎨 Passionate about **clean UI/UX** and smooth user experience
-- 🧹 Focused on **clean code, performance & scalability**
-- 🌱 Learning **System Design, Microservices & Cloud Deployment**
-- 🤝 Open to **freelance projects & open-source collaboration**
-- 💬 Ask me about **Android, MERN Stack, or Web Development**
+- 🔌 Designing secure **RESTful APIs**
+- 🔥 Working with **Firebase** & real-time features
+- 🌱 Learning **System Design & Cloud Deployment**
+- 🤝 Open to **freelance & open-source collaboration**
 
 </td>
 <td width="45%" align="center" valign="middle">
