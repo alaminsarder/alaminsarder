@@ -1,10 +1,10 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0023,50:4b0082,100:8a2be2&height=220&section=header&text=AL%20Amin%20Sarder&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20MERN%20%26%20Android%20Developer%20|%20Bangladesh&descAlignY=58&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0023,50:4b0082,100:8a2be2&height=220&section=header&text=AL%20Amin%20Sarder&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20MERN%20and%20Android%20Developer%20%7C%20Bangladesh&descAlignY=58&descAlign=50" alt="header"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Android+Developer+%7C+Mobile+App+Developer;Full+Stack+MERN+Developer;Building+Innovative+Android+%26+Cross-Platform+Solutions;Turning+Ideas+Into+Real+Products" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Android+Developer+%7C+Mobile+App+Developer;Full+Stack+MERN+Developer;Building+Innovative+Android+%26+Cross-Platform+Solutions;Turning+Ideas+Into+Real+Products" alt="typing"/>
 </p>
 
 <p align="center">
@@ -49,20 +49,18 @@ I enjoy turning ideas into real products, from designing clean UIs to building s
 
 <br/>
 
-## 🧠 Developer Profile
+## 🧠 Quick Facts
 
-```js
-const alamin = {
-  name: "AL Amin Sarder",
-  role: ["Android Developer", "MERN Stack Developer"],
-  location: "Bogura, Bangladesh 🇧🇩",
-  currentlyBuilding: "Full-stack & mobile applications",
-  currentlyLearning: ["System Design", "Microservices", "Cloud Deployment"],
-  strengths: ["Problem Solving", "Clean Code", "Fast Learning", "Team Collaboration"],
-  openTo: ["Freelance Projects", "Open-Source Collaboration"],
-  motto: "Build. Break. Learn. Repeat. 🔁"
-};
-```
+| | |
+|---|---|
+| 👤 **Name** | AL Amin Sarder |
+| 💼 **Role** | Android Developer · MERN Stack Developer |
+| 📍 **Location** | Bogura, Bangladesh 🇧🇩 |
+| 🔨 **Building** | Full-stack & mobile applications |
+| 📖 **Learning** | System Design · Microservices · Cloud Deployment |
+| 💪 **Strengths** | Problem Solving · Clean Code · Fast Learning · Teamwork |
+| 🤝 **Open To** | Freelance Projects · Open-Source Collaboration |
+| 🔁 **Motto** | Build. Break. Learn. Repeat. |
 
 <br/>
 
@@ -141,14 +139,6 @@ const alamin = {
 
 <br/>
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alaminsarder&bg_color=0D0221&color=B388FF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-
-<br/>
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -160,7 +150,7 @@ const alamin = {
 ## 💬 Quote
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&italic=true&size=18&pause=2000&color=B388FF&center=true&vCenter=true&width=700&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22;%22Clean+code+always+looks+like+it+was+written+by+someone+who+cares.%22;%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it%27s+bad.%22" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&italic=true&size=18&pause=2000&color=B388FF&center=true&vCenter=true&width=700&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22;%22Clean+code+always+looks+like+it+was+written+by+someone+who+cares.%22;%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it%27s+bad.%22" alt="quote"/>
 </p>
 
 <br/>
@@ -179,5 +169,5 @@ const alamin = {
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,100:1a0023&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,100:1a0023&height=120&section=footer" alt="footer"/>
 </p>
