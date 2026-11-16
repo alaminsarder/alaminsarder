@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 250" shape-rendering="crispEdges">
+  <style>
+    .tw{animation:tw 2s infinite alternate}
+    .tw2{animation:tw 3s infinite alternate-reverse}
+    @keyframes tw{from{opacity:.2}to{opacity:1}}
+    .line{transform-box:fill-box;transform-origin:left;animation:type 3s infinite steps(8)}
+    .l2{animation-delay:.5s}.l3{animation-delay:1s}.l4{animation-delay:1.5s}.l5{animation-delay:2s}
+    @keyframes type{0%{transform:scaleX(0)}60%,100%{transform:scaleX(1)}}
+    .blink{animation:bl 1s steps(1) infinite}
+    @keyframes bl{50%{opacity:0}}
+    .fan{animation:fan 1.6s ease-in-out infinite alternate}
+    @keyframes fan{from{opacity:.55}to{opacity:1}}
+    .bub{animation:bub 5s ease-in-out infinite alternate}
+    .bub2{animation:bub 7s ease-in-out infinite alternate-reverse}
+    @keyframes bub{from{transform:translateY(8px)}to{transform:translateY(-8px)}}
+    .glow{animation:gl 3s ease-in-out infinite alternate}
+    @keyframes gl{from{opacity:.25}to{opacity:.5}}
+    .head{animation:hd 4s ease-in-out infinite alternate}
+    @keyframes hd{from{transform:translateY(0)}to{transform:translateY(2px)}}
+  </style>
+
+  <!-- wall -->
+  <rect width="440" height="250" fill="#2a2c52"/>
+  <rect y="0" width="440" height="12" fill="#23254a"/>
+
+  <!-- window -->
+  <rect x="12" y="18" width="150" height="160" fill="#10122a"/>
+  <rect x="18" y="24" width="138" height="148" fill="#1a1d42"/>
+  <!-- stars -->
+  <rect class="tw" x="30" y="34" width="2" height="2" fill="#fff"/>
+  <rect class="tw2" x="70" y="42" width="2" height="2" fill="#fff"/>
+  <rect class="tw" x="120" y="36" width="2" height="2" fill="#fff"/>
+  <rect class="tw2" x="140" y="54" width="2" height="2" fill="#fff"/>
+  <!-- far buildings -->
+  <rect x="22" y="100" width="22" height="72" fill="#232656"/>
+  <rect x="48" y="84" width="26" height="88" fill="#2a2d63"/>
+  <rect x="80" y="108" width="20" height="64" fill="#232656"/>
+  <rect x="104" y="76" width="24" height="96" fill="#2a2d63"/>
+  <rect x="132" y="96" width="22" height="76" fill="#232656"/>
+  <!-- lit windows -->
+  <rect class="tw" x="54" y="92" width="4" height="4" fill="#ffd36b"/>
+  <rect class="tw2" x="62" y="104" width="4" height="4" fill="#ffd36b"/>
+  <rect class="tw" x="54" y="120" width="4" height="4" fill="#ff8fb3"/>
+  <rect class="tw2" x="110" y="86" width="4" height="4" fill="#ffd36b"/>
+  <rect class="tw" x="118" y="102" width="4" height="4" fill="#ffd36b"/>
+  <rect class="tw2" x="110" y="124" width="4" height="4" fill="#7fe3ff"/>
+  <rect class="tw" x="28" y="112" width="4" height="4" fill="#ffd36b"/>
+  <rect class="tw2" x="138" y="108" width="4" height="4" fill="#ffd36b"/>
+  <rect class="tw" x="86" y="120" width="4" height="4" fill="#ffd36b"/>
+  <!-- window frame cross -->
+  <rect x="84" y="24" width="5" height="148" fill="#10122a"/>
+  <rect x="18" y="96" width="138" height="5" fill="#10122a"/>
+
+  <!-- AC unit -->
+  <rect x="340" y="8" width="90" height="18" rx="2" fill="#c9cde0"/>
+  <rect x="346" y="19" width="78" height="3" fill="#9aa0bd"/>
+
+  <!-- shelves -->
+  <rect x="250" y="62" width="110" height="5" fill="#4a3a3a"/>
+  <rect x="255" y="40" width="42" height="22" fill="#15162a"/>
+  <rect x="259" y="44" width="34" height="14" fill="#0b0b18"/>
+  <text x="262" y="55" font-family="monospace" font-size="10" fill="#ff4a4a" font-weight="bold">01<tspan class="blink"> </tspan>17</text>
+  <rect x="305" y="44" width="6" height="18" fill="#cfd3e6"/>
+  <rect x="313" y="40" width="6" height="22" fill="#aeb3cc"/>
+  <rect x="321" y="46" width="6" height="16" fill="#cfd3e6"/>
+  <rect x="329" y="42" width="6" height="20" fill="#8e94b3"/>
+  <rect x="300" y="14" width="30" height="18" fill="#3a2f55"/>
+  <rect x="305" y="19" width="20" height="8" fill="#b4408f"/>
+
+  <!-- desk -->
+  <rect y="190" width="440" height="60" fill="#1b1a2e"/>
+  <rect y="186" width="440" height="6" fill="#3a3452"/>
+
+  <!-- PC tower -->
+  <rect x="300" y="108" width="44" height="80" fill="#171722"/>
+  <rect x="304" y="112" width="36" height="72" fill="#1d1d2c"/>
+  <circle class="fan" cx="322" cy="128" r="9" fill="#ff4f9a"/>
+  <circle class="fan" cx="322" cy="152" r="9" fill="#ff4f9a"/>
+  <circle class="fan" cx="322" cy="174" r="6" fill="#ff4f9a"/>
+  <circle cx="322" cy="128" r="3" fill="#2a0f22"/>
+  <circle cx="322" cy="152" r="3" fill="#2a0f22"/>
+
+  <!-- plant -->
+  <rect x="358" y="154" width="34" height="34" fill="#2c2b3d"/>
+  <ellipse cx="375" cy="140" rx="20" ry="12" fill="#1f6b5a"/>
+  <ellipse cx="362" cy="128" rx="14" ry="9" fill="#2a8a6f"/>
+  <ellipse cx="388" cy="126" rx="14" ry="9" fill="#1f6b5a"/>
+  <ellipse cx="375" cy="116" rx="12" ry="8" fill="#2a8a6f"/>
+
+  <!-- lava lamp -->
+  <rect x="404" y="150" width="22" height="8" fill="#5a2a45"/>
+  <rect x="406" y="116" width="18" height="36" fill="#e0457b"/>
+  <circle class="bub" cx="415" cy="136" r="5" fill="#ffb3d1"/>
+  <circle class="bub2" cx="414" cy="128" r="3" fill="#ffb3d1"/>
+  <rect x="408" y="158" width="14" height="30" fill="#3a2a45"/>
+
+  <!-- monitor -->
+  <rect x="150" y="96" width="136" height="86" fill="#0d0f1f"/>
+  <rect x="156" y="102" width="124" height="74" fill="#1b3a4a"/>
+  <rect x="156" y="102" width="124" height="74" fill="#2fd6c9" class="glow"/>
+  <rect class="line" x="164" y="112" width="60" height="4" fill="#9ffcf2"/>
+  <rect class="line l2" x="172" y="122" width="80" height="4" fill="#d9fffb"/>
+  <rect class="line l3" x="172" y="132" width="50" height="4" fill="#ffd36b"/>
+  <rect class="line l4" x="180" y="142" width="70" height="4" fill="#9ffcf2"/>
+  <rect class="line l5" x="164" y="152" width="40" height="4" fill="#ff8fb3"/>
+  <rect x="204" y="182" width="28" height="6" fill="#0d0f1f"/>
+
+  <!-- keyboard -->
+  <rect x="170" y="184" width="86" height="5" fill="#2b2b44"/>
+
+  <!-- chair -->
+  <rect x="176" y="150" width="84" height="70" rx="6" fill="#1c1c2e"/>
+  <!-- person -->
+  <g class="head">
+    <rect x="198" y="118" width="40" height="36" rx="6" fill="#1a1a28"/>
+    <rect x="194" y="128" width="6" height="16" fill="#3fb5ff"/>
+    <rect x="236" y="128" width="6" height="16" fill="#3fb5ff"/>
+    <rect x="198" y="114" width="40" height="6" fill="#3fb5ff"/>
+  </g>
+  <rect x="190" y="154" width="56" height="50" rx="6" fill="#12121f"/>
+  <!-- chair base -->
+  <rect x="214" y="218" width="8" height="18" fill="#12121f"/>
+  <rect x="196" y="234" width="44" height="5" fill="#12121f"/>
+</svg>
