@@ -17,15 +17,28 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **AL Amin Sarder** — a passionate **Full Stack Web Developer** from **Bogura, Bangladesh** 🇧🇩. I specialize in building **modern, scalable, and production-ready web applications** using the **MERN Stack**.
+<table>
+<tr>
+<td width="55%" valign="top">
 
-I love transforming ideas into real, working products — from crafting efficient APIs to designing polished user interfaces that people enjoy using.
+Hi, I'm **AL Amin Sarder**, a passionate **Full Stack Web Developer** from **Bogura, Bangladesh** 🇧🇩. I specialize in building **modern, scalable, and production-ready web applications** using the **MERN Stack**.
+
+I love transforming ideas into real, working products, from crafting efficient APIs to designing polished user interfaces that people enjoy using.
 
 - 🔭 Currently building full-stack applications with **MongoDB, Express, React, Node.js**
 - 🚀 Focused on **performance, scalability, and clean architecture**
 - 🌱 Learning **System Design, Microservices, and Cloud Deployment**
 - 🤝 Open to **freelance projects & open-source collaboration**
 - ⚡ Fun fact: I write code that's as clean as it is functional
+
+</td>
+<td width="45%" align="center" valign="middle">
+
+<img src="./assets/coding-room.gif" alt="Coding room animation" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
