@@ -34,9 +34,7 @@ I love transforming ideas into real, working products, from crafting efficient A
 </td>
 <td width="45%" align="center" valign="middle">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=2a0845&height=36&text=%E2%97%8F%20%E2%97%8F%20%E2%97%8F%20%20developer.js&fontSize=14&fontColor=c9a7ff&fontAlign=18&fontAlignY=55" width="100%" alt="editor bar"/>
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2500&pause=1500&color=B388FF&background=0D0221&center=false&vCenter=true&multiline=true&repeat=true&width=400&height=210&lines=const+dev+%3D+%7B;%C2%A0%C2%A0name%3A+%22AL+Amin+Sarder%22%2C;%C2%A0%C2%A0role%3A+%22MERN+Developer%22%2C;%C2%A0%C2%A0stack%3A+%22MongoDB+Express+React+Node%22%2C;%C2%A0%C2%A0location%3A+%22Bogura%2C+BD%22%2C;%C2%A0%C2%A0status%3A+%22Building+cool+stuff%22;%7D" width="100%" alt="Animated code"/>
+<img src="https://raw.githubusercontent.com/alaminsarder/alaminsarder/main/assets/coding-room.svg" alt="Coding room animation" width="100%"/>
 
 </td>
 </tr>
