@@ -1,10 +1,10 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0023,50:4b0082,100:8a2be2&height=220&section=header&text=AL%20Amin%20Sarder&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20MERN%20Developer%20|%20Bangladesh&descAlignY=58&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0023,50:4b0082,100:8a2be2&height=220&section=header&text=AL%20Amin%20Sarder&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20MERN%20%26%20Android%20Developer%20|%20CSE%20%40%20PUB&descAlignY=58&descAlign=50"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Building+Scalable+Web+Applications;Clean+Code+%2F+Problem+Solver;Turning+Ideas+Into+Real+Products" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Android+Developer+%7C+Mobile+App+Developer;CSE+Undergraduate+%40+PUB;Full+Stack+MERN+Developer;Building+Innovative+Android+%26+Cross-Platform+Solutions;Turning+Ideas+Into+Real+Products" />
 </p>
 
 <p align="center">
@@ -21,15 +21,13 @@
 <tr>
 <td width="55%" valign="top">
 
-Hi, I'm **AL Amin Sarder**, a passionate **Full Stack Web Developer** from **Bogura, Bangladesh** 🇧🇩. I specialize in building **modern, scalable, and production-ready web applications** using the **MERN Stack**.
+Hi, I'm **AL Amin Sarder** 👋, a **CSE Undergraduate @ PUB** and **Mobile App Developer** from **Bogura, Bangladesh** 🇧🇩. I build **innovative Android & cross-platform solutions** along with **scalable full-stack web apps** using the **MERN Stack**.
 
-I love transforming ideas into real, working products, from crafting efficient APIs to designing polished user interfaces that people enjoy using.
-
-- 🔭 Currently building full-stack applications with **MongoDB, Express, React, Node.js**
-- 🚀 Focused on **performance, scalability, and clean architecture**
-- 🌱 Learning **System Design, Microservices, and Cloud Deployment**
-- 🤝 Open to **freelance projects & open-source collaboration**
-- ⚡ Fun fact: I write code that's as clean as it is functional
+- 📱 **Android Developer** building modern mobile apps
+- 🎓 **CSE Undergraduate @ PUB**
+- 🔭 Building with **MongoDB, Express, React, Node.js**
+- 🌱 Learning **System Design & Cloud Deployment**
+- 🤝 Open to **freelance & open-source collaboration**
 
 </td>
 <td width="45%" align="center" valign="middle">
@@ -52,6 +50,17 @@ I love transforming ideas into real, working products, from crafting efficient A
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### 📱 Mobile Development
+<p>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
 ### 🎨 Frontend Development
@@ -105,6 +114,7 @@ I love transforming ideas into real, working products, from crafting efficient A
 | 🎯 Area | 📝 Details |
 |---------|-----------|
 | 🏗️ Building | Scalable Full-Stack MERN Applications |
+| 📱 Mobile | Android & Cross-Platform App Development |
 | 🔌 Backend | RESTful API Design & Security |
 | 🎨 Frontend | Modern UI/UX with React & Tailwind CSS |
 | 🚀 Goal | Writing Clean, Scalable, Maintainable Code |
